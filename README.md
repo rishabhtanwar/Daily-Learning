@@ -1,2 +1,2 @@
 # Daily-Learning
-[a link](https://www.geeksforgeeks.org/arraylist-vs-linkedlist-java/)
+[LinkedList vs ArrayList](https://www.geeksforgeeks.org/arraylist-vs-linkedlist-java/)
